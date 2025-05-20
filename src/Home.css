@@ -1,0 +1,17 @@
+div {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width:400px;
+    height: 900px;
+    background-color: blue;
+    overflow: auto;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+img {
+    width: 100px;
+    height: 80px;
+}
